@@ -1,0 +1,26 @@
+#Container{
+    border: solid 2px;
+    border-radius: 10px 20px 10px;
+    margin: 5%;
+    position: absolute; top:2px; right: 2px;
+    background-color: azure;
+    min-height: 100vh;
+    display :flex;
+
+}
+body{
+    background-color: crimson;
+
+}
+button{
+    background-color: blue;
+    border-radius: 5px;
+    width: 50%;
+}
+
+   
+ 
+  
+    
+
+
